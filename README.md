@@ -1,0 +1,4 @@
+railsinstaller
+==============
+
+Rails installer demo
